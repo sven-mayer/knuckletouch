@@ -1,0 +1,30 @@
+DataStudyEvaluation/7_userData.csv
+DataStudyEvaluation/8_studyData.csv
+DataStudyEvaluation/1_userData.csv
+DataStudyEvaluation/6_userData.csv
+DataStudyEvaluation/12_userData.csv
+DataStudyEvaluation/10_studyData.csv
+DataStudyEvaluation/Knuckle Study - Quest..csv
+DataStudyEvaluation/6_studyData.csv
+DataStudyEvaluation/2_studyData.csv
+DataStudyEvaluation/5_studyData.csv
+DataStudyEvaluation/1_studyData.csv
+DataStudyEvaluation/R_SUS.csv
+DataStudyEvaluation/Knuckle Study - SUS.csv
+DataStudyEvaluation/4_studyData.csv
+DataStudyEvaluation/12_studyData.csv
+DataStudyEvaluation/8_userData.csv
+DataStudyEvaluation/11_studyData.csv
+DataStudyEvaluation/3_studyData.csv
+DataStudyEvaluation/9_userData.csv
+DataStudyEvaluation/7_studyData.csv
+DataStudyEvaluation/R_TLX.csv
+DataStudyEvaluation/Knuckle Study - TLX.csv
+DataStudyEvaluation/9_studyData.csv
+DataStudyEvaluation/4_userData.csv
+DataStudyEvaluation/3_userData.csv
+DataStudyEvaluation/10_userData.csv
+DataStudyEvaluation/2_userData.csv
+DataStudyEvaluation/5_userData.csv
+DataStudyEvaluation/11_userData.csv
+DataStudyEvaluation/R_Quest.csv

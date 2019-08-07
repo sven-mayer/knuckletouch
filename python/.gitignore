@@ -1,0 +1,10 @@
+# Ignore data
+*.pkl
+*.csv
+
+# Ignore figures
+*.pdf
+*.png
+*.jpg
+
+.ipynb_checkpoints/
